@@ -1,10 +1,9 @@
-### Letter
-Letter is an implementation of the popular game Hangman for the terminal. It is
-written in Perl using bindings for ncurses.
+# Letter
+Letter is a terminal implementation of the classic game Hangman written in Perl
+using bindings for ncurses.
 
 ## Dependencies
-Letter depends on Perl bindings for ncurses. Here are the commands to install
-Perl bindings for popular Linux distributions.
+Letter depends on Perl bindings for ncurses.
 
 Ubuntu
 ```
@@ -28,7 +27,7 @@ Words are taken from `words.txt` which contains all words between 4 and 10
 letters extracted from the standard Unix `words`. You can supply your own
 wordlist by replacing the contents of `words.txt`.
 
-## Screenshot
+## Screenshots
 ![Letter](letter_1.png)
 ![Letter](letter_2.png)
 
