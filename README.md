@@ -30,6 +30,7 @@ wordlist by replacing the contents of `words.txt`.
 ## Screenshots
 ![Letter](letter_1.png)
 ![Letter](letter_2.png)
+![Letter](letter_3.png)
 
 ## License
 GNU General Public License v3.0
